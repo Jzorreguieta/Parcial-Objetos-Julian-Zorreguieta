@@ -1,4 +1,5 @@
 import objetosMagicos.*
+import gremios.*
 
 class Mago {
     const nombre
